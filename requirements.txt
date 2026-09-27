@@ -1,0 +1,9 @@
+streamlit==1.38.0
+pylint==3.2.7
+bandit==1.7.9
+radon==6.0.1
+scikit-learn==1.5.1
+pandas==2.2.2
+joblib==1.4.2
+requests==2.32.3
+plotly==5.23.0
